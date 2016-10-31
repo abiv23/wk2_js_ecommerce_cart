@@ -1,0 +1,19 @@
+{
+  "name": "galvanize-sports",
+  "version": "0.0.1",
+  "description": "Week 2 javascript assessment",
+  "main": "galvanize_sports.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "keywords": [
+    "galvanize",
+    "assessment"
+  ],
+  "author": "Kyle Coberly",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
